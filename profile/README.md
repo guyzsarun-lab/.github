@@ -7,3 +7,5 @@ This organization hosts my personal homelab configuration and related projects. 
 - **Automation Scripts**: A collection of scripts to automate various tasks in the homelab.
 - **Monitoring Tools**: Tools and configurations for monitoring the homelab environment.
 
+## Application Diagram
+![Homelab Diagram](https://github.com/guyzsarun-lab/.github/raw/main/assets/homelab.png)
